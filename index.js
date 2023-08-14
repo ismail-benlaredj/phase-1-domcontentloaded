@@ -1,2 +1,2 @@
 // Your code goes here
-document.addEventListener("DOMContentLoaded", () => document.querySelector("#text").textContent = "This is really cool!")
+document.addEventListener("DOMContentLoaded", () => document.querySelector("p").textContent = "This is really cool!")
